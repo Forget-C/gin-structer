@@ -7,8 +7,8 @@ import (
 	"runtime"
 	"syscall"
 
+	"github.com/Forget-C/http-structer/internal/server"
 	flag "github.com/spf13/pflag"
-	server "osc.gitee.work/enterprise/enterprise__IDE/gitee-cloud-ide-platform/internal/server/app"
 )
 
 func main() {
